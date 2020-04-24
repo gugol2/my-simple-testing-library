@@ -1,0 +1,12 @@
+{
+  "name": "my-simple-testing-library",
+  "version": "1.0.0",
+  "description": "A repo to proof how a testing library works for educational purposes",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
